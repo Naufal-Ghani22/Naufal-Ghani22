@@ -9,11 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** 2nd-year Information Systems Student
-- 🎨 **Passion:** UI/UX Design, Visual Identity, & Creative Coding
-- 🛠️ **Learning:** Advanced Web Development & IT Performance Management
-- 💬 **Ask me about:** Affinity Designer, InnoBridge, or Web Development
-- 📫 **How to reach me:** [Insert your Instagram/Link here]
+- 🎓 **Education :** Information Systems Student
+- 🎨 **Passion :** UI/UX Design, Visual Identity, & Creative Coding
+- 🛠️ **Learning :** Advanced Web Development & IT Performance Management
+- 💬 **Ask me about :** Affinity Designer, Canva, or Web Development
 
 ---
 
