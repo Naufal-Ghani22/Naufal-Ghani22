@@ -38,11 +38,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naufal-Ghani22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufal-Ghani22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="39%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naufal-Ghani22&theme=dark&hide_border=true&background=0D1117" width="88%" />
 </p>
 
